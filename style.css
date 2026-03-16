@@ -140,6 +140,9 @@
   padding-top: 24px;
   padding-bottom: 72px;
 }
+.about-games__link {
+  text-decoration: none;
+}
 .about-games__number {
   border-radius: 52.58px;
   background: rgb(247, 247, 247);
@@ -225,7 +228,7 @@
   padding-top: 46px;
   padding-bottom: 72px;
 }
-.mini-game__background {
+.mini-game-background {
   height: 3500px;
   background: rgb(32, 32, 39);
 }
